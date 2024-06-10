@@ -25,7 +25,7 @@ I have about 15 years of experience in the technical field, including 4 years of
 |                       | plotly.js |               |                   |                     |
 
 ## Code example
-
+*Given an array nums of integers, return how many of them contain an even number of digits*
 ```
 /**
  * @param {number[]} nums
@@ -53,6 +53,8 @@ var findDigitsCount = function(num){
     return result;
 }
 ```
+## Project
+The first [study project](https://github.com/mikhaylenkoannai/rsschool-cv) on Rs JS/FE Pre-School 2024
 
 ## Experience
 
